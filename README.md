@@ -1,24 +1,24 @@
-# Keiyoushi Extensions
+# 该Branch为[Keiyoushi Extensions](https://github.com/keiyoushi/extensions)对[Removed Extensions](https://github.com/keiyoushi/extensions-source/issues/14260)的还原备份
+---
+### 已还原的项目列表
+- [x] (2026) [NHentai](https://nhentai.net/) - _tachiyomi-all.nhentai-v1.4.56.apk_
+- [x] (2026) [Pururin](https://pururin.me/) - _tachiyomi-all.pururin-v1.4.10.apk_
+- [x] (2026) [E-Hentai](https://e-hentai.org/) - _tachiyomi-all.ehentai-v1.4.27.apk_
+- [x] (2026) [Hentai2Read](https://hentai2read.com/) - _tachiyomi-en.hentai2read-v1.4.18.apk_
+- [x] (2026) [Hentai20](https://hentai20.io/) - _tachiyomi-en.hentai20-v1.4.39.apk_
+- [x] (2026) [Hitomi](https://hitomi.la/) - _tachiyomi-all.hitomi-v1.4.41.apk_
+- [ ] (2024) [ReManga (RU)](https://remanga.org/) -
+- [ ] (2024) [Kumanga](https://kumanga.com/) -
+---
+### 注意事项
+1.**不要**在[原项目](https://github.com/keiyoushi/extensions)下提及本仓库
 
-### Please give the repo a :star:
+2.**不会**维护以上*废弃*插件，本仓库仅作存档使用，任何相关Issue会被关闭
 
-| Build | Need Help? |
-|-------|---------|
-| [![CI](https://github.com/keiyoushi/extensions-source/actions/workflows/build_push.yml/badge.svg)](https://github.com/keiyoushi/extensions-source/actions/workflows/build_push.yml) | [![Discord](https://img.shields.io/discord/1193460528052453448.svg?label=discord&labelColor=7289da&color=2c2f33&style=flat)](https://discord.gg/3FbCpdKbdY) |
+3.此仅供爱好者测试及研究之用，版权归发行公司所有。任何组织或个人不得传播或用于任何商业用途，否则一切后果由该组织及个人承担。本仓库所有者将**不承担**任何法律及连带责任
 
-## Usage
-**If you are new to repository/extensions, please read the [Keiyoushi Getting Started guide](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo) first.**
+4.对使用以上*废弃*插件后产生的任何不良影响，本仓库所有者不承担任何法律及连带责任。
 
-* You can add our repo by visiting the [Keiyoushi Website](https://keiyoushi.github.io/add-repo)
-* Otherwise, copy & paste the following URL: https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json
+5.请自觉于下载后24小时内删除。如果喜欢以上*废弃*插件中的任何内容，请购买正版授权并合法使用。
 
-### Source Code
-
-https://github.com/keiyoushi/extensions-source
-
-### Report issues
-
-https://github.com/keiyoushi/extensions-source/issues/new/choose
-
-### Others
-If you're not using any of the above fork then manually download and update extensions from [the listing page](https://keiyoushi.github.io/extensions/)
+6.若侵犯了任何版权相关方的权益，请联系并删除
