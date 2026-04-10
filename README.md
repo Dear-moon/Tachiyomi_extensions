@@ -3,10 +3,10 @@
 ### 已还原的项目列表
 - [x] (2026) [NHentai](https://nhentai.net/) - _[tachiyomi-all.nhentai-v1.4.56.apk](apk/tachiyomi-all.nhentai-v1.4.56.apk)_
 - [x] (2026) [Pururin](https://pururin.me/) - _[tachiyomi-all.pururin-v1.4.10.apk](apk/tachiyomi-all.pururin-v1.4.10.apk)_
-- [x] (2026) [E-Hentai](https://e-hentai.org/) - _[tachiyomi-all.ehentai-v1.4.27.apk](tachiyomi-all.ehentai-v1.4.27.apk)_
+- [x] (2026) [E-Hentai](https://e-hentai.org/) - _[tachiyomi-all.ehentai-v1.4.27.apk](apk/tachiyomi-all.ehentai-v1.4.27.apk)_
 - [x] (2026) [Hentai2Read](https://hentai2read.com/) - _[tachiyomi-en.hentai2read-v1.4.18.apk](apk/tachiyomi-en.hentai2read-v1.4.18.apk)_
 - [x] (2026) [Hentai20](https://hentai20.io/) - _[tachiyomi-en.hentai20-v1.4.39.apk](apk/tachiyomi-en.hentai20-v1.4.39.apk)_
-- [x] (2026) [Hitomi](https://hitomi.la/) - _[tachiyomi-all.hitomi-v1.4.41.apk](apk/achiyomi-all.hitomi-v1.4.41.apk)_
+- [x] (2026) [Hitomi](https://hitomi.la/) - _[tachiyomi-all.hitomi-v1.4.41.apk](apk/tachiyomi-all.hitomi-v1.4.41.apk)_
 - [ ] (2024) [ReManga (RU)](https://remanga.org/) -
 - [ ] (2024) [Kumanga](https://kumanga.com/) -
 ---
