@@ -1,7 +1,7 @@
 # 该Branch为[Keiyoushi Extensions](https://github.com/keiyoushi/extensions)对[Removed Extensions](https://github.com/keiyoushi/extensions-source/issues/14260)的还原备份
 ---
 ### 已还原的项目列表
-- [x] (2026) [NHentai](https://nhentai.net/) - _[tachiyomi-all.nhentai-v1.4.56.apk](apk/tachiyomi-all.nhentai-v1.4.56.apk)_
+- [x] (2026) [NHentai](https://nhentai.net/) - _[tachiyomi-all.nhentai-v1.4.56.apk](apk/tachiyomi-all.nhentai-v1.4.57.apk)_
 - [x] (2026) [Pururin](https://pururin.me/) - _[tachiyomi-all.pururin-v1.4.10.apk](apk/tachiyomi-all.pururin-v1.4.10.apk)_
 - [x] (2026) [E-Hentai](https://e-hentai.org/) - _[tachiyomi-all.ehentai-v1.4.27.apk](apk/tachiyomi-all.ehentai-v1.4.27.apk)_
 - [x] (2026) [Hentai2Read](https://hentai2read.com/) - _[tachiyomi-en.hentai2read-v1.4.18.apk](apk/tachiyomi-en.hentai2read-v1.4.18.apk)_
